@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunksandbox=self.webpackChunksandbox||[]).push([[452],{3963:(e,n,l)=>{l.r(n),l.d(n,{default:()=>i});var t=l(3264),s=l.n(t),a=l(6530),u=l(6350),c=l(7839);const i=(0,a.withRouter)((function(){return(0,t.useEffect)((function(){var e,n,l;null===(e=insights)||void 0===e||null===(n=e.chrome)||void 0===n||null===(l=n.appAction)||void 0===l||l.call(n,"no-permissions")}),[]),s().createElement(u.Z,null,s().createElement(c.Z,{serviceName:"Sample app"}))}))}}]);
-//# sourceMappingURL=../sourcemaps/NoPermissionsPage.5845c6fb4157248615392a15871d23ba.js.map

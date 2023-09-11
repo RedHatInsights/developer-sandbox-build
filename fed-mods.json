@@ -1,10 +1,11 @@
 {
     "sandbox": {
         "entry": [
-            "/apps/sandbox/sandbox.8b43661179d68caf3d96.js"
+            "/apps/sandbox/sandbox.1694452870255.fa4c3476ddf7b4f552ac.js"
         ],
         "modules": [
-            "/apps/sandbox/js/412.234e7e56b35d2b72736c.js"
+            "/apps/sandbox/js/799.1694452870280.fa4c3476ddf7b4f552ac.js",
+            "/apps/sandbox/css/799.805765da4eec9da3df21.css"
         ]
     }
 }

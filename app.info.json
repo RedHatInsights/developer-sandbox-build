@@ -1,14 +1,14 @@
 {
   "app_name": "sandbox",
   "node_version": ">=16.0.0",
-  "src_hash": "802ecf9245c22762f6bc5e9825d25a12a10e5a57",
+  "src_hash": "8be60858cd9a92a7cd43c50938d0a9a06be141ae",
   "src_tag": "",
   "src_branch": "master-stable",
-  "patternfly_dependencies": ["@patternfly/react-component-groups@1.0.13","@patternfly/react-core@5.0.0","@patternfly/react-icons@5.0.0"],
-  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@4.0.0","@redhat-cloud-services/frontend-components-utilities@4.0.1","@redhat-cloud-services/frontend-components@4.0.7"],
+  "patternfly_dependencies": ["@patternfly/patternfly@4.159.1","@patternfly/react-core@4.175.4","@patternfly/react-table@4.44.4"],
+  "rh_cloud_services_dependencies": ["@redhat-cloud-services/frontend-components-notifications@3.2.2","@redhat-cloud-services/frontend-components-utilities@3.2.4","@redhat-cloud-services/frontend-components@3.3.3"],
   "travis": {
     "event_type": "push",
-    "build_number": "106",
-    "build_web_url": "https://app.travis-ci.com/RedHatInsights/developer-sandbox-ui/builds/265846324"
+    "build_number": "109",
+    "build_web_url": "https://app.travis-ci.com/RedHatInsights/developer-sandbox-ui/builds/265846924"
   }
 }

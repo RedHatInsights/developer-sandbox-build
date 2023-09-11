@@ -1,11 +1,10 @@
 {
-  "name": "sandbox",
-  "version": "1.0.0",
-  "extensions": [],
-  "registrationMethod": "callback",
-  "baseURL": "/apps/sandbox/",
-  "loadScripts": [
-    "sandbox.682ae8d95838772c325e.js"
-  ],
-  "buildHash": "682ae8d95838772c325e60cd32c83fd3"
+    "sandbox": {
+        "entry": [
+            "/apps/sandbox/sandbox.8b43661179d68caf3d96.js"
+        ],
+        "modules": [
+            "/apps/sandbox/js/412.234e7e56b35d2b72736c.js"
+        ]
+    }
 }

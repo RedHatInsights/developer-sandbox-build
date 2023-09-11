@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksandbox=self.webpackChunksandbox||[]).push([[2842],{2842:(e,n,s)=>{s.r(n),s.d(n,{Spinner:()=>a.$,spinnerSize:()=>a.S});var a=s(7619)}}]);

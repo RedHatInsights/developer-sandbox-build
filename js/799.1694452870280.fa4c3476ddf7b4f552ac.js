@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunksandbox=self.webpackChunksandbox||[]).push([[799],{5730:(e,t,n)=>{n.r(t),n.d(t,{default:()=>c});var a=n(3264),r=n.n(a),s=n(8928),l=n(6239),u=n(5844);n(9661);const c=function(){return r().createElement(s.zt,{store:l.S.apply(void 0,[]).getStore()},r().createElement(u.Z,null))}}}]);
-//# sourceMappingURL=../sourcemaps/799.63496d7c6ada1cb1ad99c8eb27a4f2e4.js.map

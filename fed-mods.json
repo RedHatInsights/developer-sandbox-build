@@ -5,7 +5,7 @@
   "registrationMethod": "callback",
   "baseURL": "/beta/apps/sandbox/",
   "loadScripts": [
-    "sandbox.0fff3574db8e7af4e182.js"
+    "sandbox.5ee18e6b9bef900ffdba.js"
   ],
-  "buildHash": "0fff3574db8e7af4e182425caf2b02a5"
+  "buildHash": "5ee18e6b9bef900ffdba46a1d608b4ad"
 }

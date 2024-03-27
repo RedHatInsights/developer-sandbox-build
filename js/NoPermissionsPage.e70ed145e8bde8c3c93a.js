@@ -1,0 +1,2 @@
+(self.webpackChunksandbox=self.webpackChunksandbox||[]).push([[9452],{8685:(e,n,s)=>{"use strict";s.r(n),s.d(n,{default:()=>l});var t=s(8416),a=s.n(t),c=s(9087),r=s(5140),o=s(9676);const l=()=>{const{appAction:e}=(0,r.Z)();return(0,t.useEffect)((()=>{e("no-permissions")}),[]),a().createElement(c.ZP,null,a().createElement(o.bY,{serviceName:"Developer Sandbox"}))}},1452:()=>{},4946:()=>{},108:()=>{},1320:()=>{},8361:()=>{},6822:()=>{},314:()=>{},3519:()=>{}}]);
+//# sourceMappingURL=../sourcemaps/NoPermissionsPage.acd6f987982d206e93e29ee3d86fd8bc.js.map

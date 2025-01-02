@@ -1,1 +1,0 @@
-{"version":3,"file":"js/exposed-./RootApp.xxxxxxxxxxxxxxxxxxxx.js","mappings":"iKAGA,MAEA,EAFiB,IAAM,kBAAC,IAAG,K","sources":["webpack:///./src/AppEntry.tsx"],"sourcesContent":["import React from 'react';\nimport App from './App';\n\nconst AppEntry = () => <App />;\n\nexport default AppEntry;\n"],"names":[],"sourceRoot":""}

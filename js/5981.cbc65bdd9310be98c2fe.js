@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksandbox=self.webpackChunksandbox||[]).push([[5981],{5338:(e,t,a)=>{var n=a(7628);t.H=n.createRoot,n.hydrateRoot},1515:(e,t,a)=>{var n=a(3345),r=a.n(n),o=a(5338),s=a(2489);const u=()=>r().createElement(s.A,null),l=document.getElementById("root");l&&(l.setAttribute("data-ouia-safe","true"),(0,o.H)(l).render(r().createElement(u,null)))}}]);

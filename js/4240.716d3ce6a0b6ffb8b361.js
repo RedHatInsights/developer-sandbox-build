@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunksandbox=self.webpackChunksandbox||[]).push([[4240],{745:(e,t,a)=>{var n=a(1051);t.s=n.createRoot,n.hydrateRoot},6411:(e,t,a)=>{a.r(t);var n=a(8416),r=a.n(n),s=a(745),o=a(2089);const u=()=>r().createElement(o.Z,null),l=document.getElementById("root");l&&(l.setAttribute("data-ouia-safe","true"),(0,s.s)(l).render(r().createElement(u,null)))}}]);
-//# sourceMappingURL=../sourcemaps/4240.3c89228d108718227cf230cdb6bdc6f2.js.map

@@ -1,1 +1,1 @@
-{"name":"sandbox","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/beta/apps/sandbox/","loadScripts":["sandbox.6b275f98e499d53b4b0a.js"],"buildHash":"1004ac413305d819a655df59237ec994"}
+{"name":"sandbox","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/apps/sandbox/","loadScripts":["sandbox.9300bf3de5b81a8c142f.js"],"buildHash":"224354400edc60934daf5216fd6d29ce"}
